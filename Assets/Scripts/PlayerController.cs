@@ -9,8 +9,19 @@ public class PlayerController : MonoBehaviour{
 
     void Start(){
         player = GetComponent<Rigidbody2D>();
+        myAnimation = GetComponent<Animator>();
     }
     void Update(){
         player.velocity = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")) * speed * Time.deltaTime;
+
+        myAnimation.SetFloat("moveX", player.velocity.x);
+        myAnimation.SetFloat("moveY", player.velocity.y);
+
+        if (Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 ||
+            Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
+            {
+                myAnimation.SetFloat("lastMoveX", Input.GetAxisRaw("Horizontal"));
+                myAnimation.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical"));
+            }
     }
 }
