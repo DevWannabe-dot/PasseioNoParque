@@ -113,8 +113,8 @@ TextureImporter:
       name: chicken_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 452
+        x: 5
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -134,8 +134,8 @@ TextureImporter:
       name: chicken_1
       rect:
         serializedVersion: 2
-        x: 77
-        y: 452
+        x: 72
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -155,8 +155,8 @@ TextureImporter:
       name: chicken_2
       rect:
         serializedVersion: 2
-        x: 144
-        y: 452
+        x: 139
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -176,8 +176,8 @@ TextureImporter:
       name: chicken_3
       rect:
         serializedVersion: 2
-        x: 211
-        y: 452
+        x: 206
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -197,8 +197,8 @@ TextureImporter:
       name: chicken_4
       rect:
         serializedVersion: 2
-        x: 278
-        y: 452
+        x: 273
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -218,8 +218,8 @@ TextureImporter:
       name: chicken_5
       rect:
         serializedVersion: 2
-        x: 345
-        y: 452
+        x: 340
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -239,8 +239,8 @@ TextureImporter:
       name: chicken_6
       rect:
         serializedVersion: 2
-        x: 412
-        y: 452
+        x: 407
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -260,8 +260,8 @@ TextureImporter:
       name: chicken_7
       rect:
         serializedVersion: 2
-        x: 479
-        y: 452
+        x: 474
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -281,8 +281,8 @@ TextureImporter:
       name: chicken_8
       rect:
         serializedVersion: 2
-        x: 546
-        y: 452
+        x: 541
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -302,8 +302,8 @@ TextureImporter:
       name: chicken_9
       rect:
         serializedVersion: 2
-        x: 613
-        y: 452
+        x: 608
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -323,8 +323,8 @@ TextureImporter:
       name: chicken_10
       rect:
         serializedVersion: 2
-        x: 680
-        y: 452
+        x: 675
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -344,8 +344,8 @@ TextureImporter:
       name: chicken_11
       rect:
         serializedVersion: 2
-        x: 747
-        y: 452
+        x: 742
+        y: 451
         width: 67
         height: 64
       alignment: 0
@@ -365,8 +365,8 @@ TextureImporter:
       name: chicken_12
       rect:
         serializedVersion: 2
-        x: 10
-        y: 388
+        x: 5
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -386,8 +386,8 @@ TextureImporter:
       name: chicken_13
       rect:
         serializedVersion: 2
-        x: 77
-        y: 388
+        x: 72
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -407,8 +407,8 @@ TextureImporter:
       name: chicken_14
       rect:
         serializedVersion: 2
-        x: 144
-        y: 388
+        x: 139
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -428,8 +428,8 @@ TextureImporter:
       name: chicken_15
       rect:
         serializedVersion: 2
-        x: 211
-        y: 388
+        x: 206
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -449,8 +449,8 @@ TextureImporter:
       name: chicken_16
       rect:
         serializedVersion: 2
-        x: 278
-        y: 388
+        x: 273
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -470,8 +470,8 @@ TextureImporter:
       name: chicken_17
       rect:
         serializedVersion: 2
-        x: 345
-        y: 388
+        x: 340
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -491,8 +491,8 @@ TextureImporter:
       name: chicken_18
       rect:
         serializedVersion: 2
-        x: 412
-        y: 388
+        x: 407
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -512,8 +512,8 @@ TextureImporter:
       name: chicken_19
       rect:
         serializedVersion: 2
-        x: 479
-        y: 388
+        x: 474
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -533,8 +533,8 @@ TextureImporter:
       name: chicken_20
       rect:
         serializedVersion: 2
-        x: 546
-        y: 388
+        x: 541
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -554,8 +554,8 @@ TextureImporter:
       name: chicken_21
       rect:
         serializedVersion: 2
-        x: 613
-        y: 388
+        x: 608
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -575,8 +575,8 @@ TextureImporter:
       name: chicken_22
       rect:
         serializedVersion: 2
-        x: 680
-        y: 388
+        x: 675
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -596,8 +596,8 @@ TextureImporter:
       name: chicken_23
       rect:
         serializedVersion: 2
-        x: 747
-        y: 388
+        x: 742
+        y: 387
         width: 67
         height: 64
       alignment: 0
@@ -617,8 +617,8 @@ TextureImporter:
       name: chicken_24
       rect:
         serializedVersion: 2
-        x: 10
-        y: 324
+        x: 5
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -638,8 +638,8 @@ TextureImporter:
       name: chicken_25
       rect:
         serializedVersion: 2
-        x: 77
-        y: 324
+        x: 72
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -659,8 +659,8 @@ TextureImporter:
       name: chicken_26
       rect:
         serializedVersion: 2
-        x: 144
-        y: 324
+        x: 139
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -680,8 +680,8 @@ TextureImporter:
       name: chicken_27
       rect:
         serializedVersion: 2
-        x: 211
-        y: 324
+        x: 206
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -701,8 +701,8 @@ TextureImporter:
       name: chicken_28
       rect:
         serializedVersion: 2
-        x: 278
-        y: 324
+        x: 273
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -722,8 +722,8 @@ TextureImporter:
       name: chicken_29
       rect:
         serializedVersion: 2
-        x: 345
-        y: 324
+        x: 340
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -743,8 +743,8 @@ TextureImporter:
       name: chicken_30
       rect:
         serializedVersion: 2
-        x: 412
-        y: 324
+        x: 407
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -764,8 +764,8 @@ TextureImporter:
       name: chicken_31
       rect:
         serializedVersion: 2
-        x: 479
-        y: 324
+        x: 474
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -785,8 +785,8 @@ TextureImporter:
       name: chicken_32
       rect:
         serializedVersion: 2
-        x: 546
-        y: 324
+        x: 541
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -806,8 +806,8 @@ TextureImporter:
       name: chicken_33
       rect:
         serializedVersion: 2
-        x: 613
-        y: 324
+        x: 608
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -827,8 +827,8 @@ TextureImporter:
       name: chicken_34
       rect:
         serializedVersion: 2
-        x: 680
-        y: 324
+        x: 675
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -848,8 +848,8 @@ TextureImporter:
       name: chicken_35
       rect:
         serializedVersion: 2
-        x: 747
-        y: 324
+        x: 742
+        y: 323
         width: 67
         height: 64
       alignment: 0
@@ -869,8 +869,8 @@ TextureImporter:
       name: chicken_36
       rect:
         serializedVersion: 2
-        x: 10
-        y: 260
+        x: 5
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -890,8 +890,8 @@ TextureImporter:
       name: chicken_37
       rect:
         serializedVersion: 2
-        x: 77
-        y: 260
+        x: 72
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -911,8 +911,8 @@ TextureImporter:
       name: chicken_38
       rect:
         serializedVersion: 2
-        x: 144
-        y: 260
+        x: 139
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -932,8 +932,8 @@ TextureImporter:
       name: chicken_39
       rect:
         serializedVersion: 2
-        x: 211
-        y: 260
+        x: 206
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -953,8 +953,8 @@ TextureImporter:
       name: chicken_40
       rect:
         serializedVersion: 2
-        x: 278
-        y: 260
+        x: 273
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -974,8 +974,8 @@ TextureImporter:
       name: chicken_41
       rect:
         serializedVersion: 2
-        x: 345
-        y: 260
+        x: 340
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -995,8 +995,8 @@ TextureImporter:
       name: chicken_42
       rect:
         serializedVersion: 2
-        x: 412
-        y: 260
+        x: 407
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -1016,8 +1016,8 @@ TextureImporter:
       name: chicken_43
       rect:
         serializedVersion: 2
-        x: 479
-        y: 260
+        x: 474
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -1037,8 +1037,8 @@ TextureImporter:
       name: chicken_44
       rect:
         serializedVersion: 2
-        x: 546
-        y: 260
+        x: 541
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -1058,8 +1058,8 @@ TextureImporter:
       name: chicken_45
       rect:
         serializedVersion: 2
-        x: 613
-        y: 260
+        x: 608
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -1079,8 +1079,8 @@ TextureImporter:
       name: chicken_46
       rect:
         serializedVersion: 2
-        x: 680
-        y: 260
+        x: 675
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -1100,8 +1100,8 @@ TextureImporter:
       name: chicken_47
       rect:
         serializedVersion: 2
-        x: 747
-        y: 260
+        x: 742
+        y: 259
         width: 67
         height: 64
       alignment: 0
@@ -1121,8 +1121,8 @@ TextureImporter:
       name: chicken_48
       rect:
         serializedVersion: 2
-        x: 10
-        y: 196
+        x: 5
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1142,8 +1142,8 @@ TextureImporter:
       name: chicken_49
       rect:
         serializedVersion: 2
-        x: 77
-        y: 196
+        x: 72
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1163,8 +1163,8 @@ TextureImporter:
       name: chicken_50
       rect:
         serializedVersion: 2
-        x: 144
-        y: 196
+        x: 139
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1184,8 +1184,8 @@ TextureImporter:
       name: chicken_51
       rect:
         serializedVersion: 2
-        x: 211
-        y: 196
+        x: 206
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1205,8 +1205,8 @@ TextureImporter:
       name: chicken_52
       rect:
         serializedVersion: 2
-        x: 278
-        y: 196
+        x: 273
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1226,8 +1226,8 @@ TextureImporter:
       name: chicken_53
       rect:
         serializedVersion: 2
-        x: 345
-        y: 196
+        x: 340
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1247,8 +1247,8 @@ TextureImporter:
       name: chicken_54
       rect:
         serializedVersion: 2
-        x: 412
-        y: 196
+        x: 407
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1268,8 +1268,8 @@ TextureImporter:
       name: chicken_55
       rect:
         serializedVersion: 2
-        x: 479
-        y: 196
+        x: 474
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1289,8 +1289,8 @@ TextureImporter:
       name: chicken_56
       rect:
         serializedVersion: 2
-        x: 546
-        y: 196
+        x: 541
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1310,8 +1310,8 @@ TextureImporter:
       name: chicken_57
       rect:
         serializedVersion: 2
-        x: 613
-        y: 196
+        x: 608
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1331,8 +1331,8 @@ TextureImporter:
       name: chicken_58
       rect:
         serializedVersion: 2
-        x: 680
-        y: 196
+        x: 675
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1352,8 +1352,8 @@ TextureImporter:
       name: chicken_59
       rect:
         serializedVersion: 2
-        x: 747
-        y: 196
+        x: 742
+        y: 195
         width: 67
         height: 64
       alignment: 0
@@ -1373,8 +1373,8 @@ TextureImporter:
       name: chicken_60
       rect:
         serializedVersion: 2
-        x: 10
-        y: 132
+        x: 5
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1394,8 +1394,8 @@ TextureImporter:
       name: chicken_61
       rect:
         serializedVersion: 2
-        x: 77
-        y: 132
+        x: 72
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1415,8 +1415,8 @@ TextureImporter:
       name: chicken_62
       rect:
         serializedVersion: 2
-        x: 144
-        y: 132
+        x: 139
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1436,8 +1436,8 @@ TextureImporter:
       name: chicken_63
       rect:
         serializedVersion: 2
-        x: 211
-        y: 132
+        x: 206
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1457,8 +1457,8 @@ TextureImporter:
       name: chicken_64
       rect:
         serializedVersion: 2
-        x: 278
-        y: 132
+        x: 273
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1478,8 +1478,8 @@ TextureImporter:
       name: chicken_65
       rect:
         serializedVersion: 2
-        x: 345
-        y: 132
+        x: 340
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1499,8 +1499,8 @@ TextureImporter:
       name: chicken_66
       rect:
         serializedVersion: 2
-        x: 412
-        y: 132
+        x: 407
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1520,8 +1520,8 @@ TextureImporter:
       name: chicken_67
       rect:
         serializedVersion: 2
-        x: 479
-        y: 132
+        x: 474
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1541,8 +1541,8 @@ TextureImporter:
       name: chicken_68
       rect:
         serializedVersion: 2
-        x: 546
-        y: 132
+        x: 541
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1562,8 +1562,8 @@ TextureImporter:
       name: chicken_69
       rect:
         serializedVersion: 2
-        x: 613
-        y: 132
+        x: 608
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1583,8 +1583,8 @@ TextureImporter:
       name: chicken_70
       rect:
         serializedVersion: 2
-        x: 680
-        y: 132
+        x: 675
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1604,8 +1604,8 @@ TextureImporter:
       name: chicken_71
       rect:
         serializedVersion: 2
-        x: 747
-        y: 132
+        x: 742
+        y: 131
         width: 67
         height: 64
       alignment: 0
@@ -1625,8 +1625,8 @@ TextureImporter:
       name: chicken_72
       rect:
         serializedVersion: 2
-        x: 10
-        y: 68
+        x: 5
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1646,8 +1646,8 @@ TextureImporter:
       name: chicken_73
       rect:
         serializedVersion: 2
-        x: 77
-        y: 68
+        x: 72
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1667,8 +1667,8 @@ TextureImporter:
       name: chicken_74
       rect:
         serializedVersion: 2
-        x: 144
-        y: 68
+        x: 139
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1688,8 +1688,8 @@ TextureImporter:
       name: chicken_75
       rect:
         serializedVersion: 2
-        x: 211
-        y: 68
+        x: 206
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1709,8 +1709,8 @@ TextureImporter:
       name: chicken_76
       rect:
         serializedVersion: 2
-        x: 278
-        y: 68
+        x: 273
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1730,8 +1730,8 @@ TextureImporter:
       name: chicken_77
       rect:
         serializedVersion: 2
-        x: 345
-        y: 68
+        x: 340
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1751,8 +1751,8 @@ TextureImporter:
       name: chicken_78
       rect:
         serializedVersion: 2
-        x: 412
-        y: 68
+        x: 407
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1772,8 +1772,8 @@ TextureImporter:
       name: chicken_79
       rect:
         serializedVersion: 2
-        x: 479
-        y: 68
+        x: 474
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1793,8 +1793,8 @@ TextureImporter:
       name: chicken_80
       rect:
         serializedVersion: 2
-        x: 546
-        y: 68
+        x: 541
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1814,8 +1814,8 @@ TextureImporter:
       name: chicken_81
       rect:
         serializedVersion: 2
-        x: 613
-        y: 68
+        x: 608
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1835,8 +1835,8 @@ TextureImporter:
       name: chicken_82
       rect:
         serializedVersion: 2
-        x: 680
-        y: 68
+        x: 675
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1856,8 +1856,8 @@ TextureImporter:
       name: chicken_83
       rect:
         serializedVersion: 2
-        x: 747
-        y: 68
+        x: 742
+        y: 67
         width: 67
         height: 64
       alignment: 0
@@ -1877,8 +1877,8 @@ TextureImporter:
       name: chicken_84
       rect:
         serializedVersion: 2
-        x: 10
-        y: 4
+        x: 5
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -1898,8 +1898,8 @@ TextureImporter:
       name: chicken_85
       rect:
         serializedVersion: 2
-        x: 77
-        y: 4
+        x: 72
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -1919,8 +1919,8 @@ TextureImporter:
       name: chicken_86
       rect:
         serializedVersion: 2
-        x: 144
-        y: 4
+        x: 139
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -1940,8 +1940,8 @@ TextureImporter:
       name: chicken_87
       rect:
         serializedVersion: 2
-        x: 211
-        y: 4
+        x: 206
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -1961,8 +1961,8 @@ TextureImporter:
       name: chicken_88
       rect:
         serializedVersion: 2
-        x: 278
-        y: 4
+        x: 273
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -1982,8 +1982,8 @@ TextureImporter:
       name: chicken_89
       rect:
         serializedVersion: 2
-        x: 345
-        y: 4
+        x: 340
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -2003,8 +2003,8 @@ TextureImporter:
       name: chicken_90
       rect:
         serializedVersion: 2
-        x: 412
-        y: 4
+        x: 407
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -2024,8 +2024,8 @@ TextureImporter:
       name: chicken_91
       rect:
         serializedVersion: 2
-        x: 479
-        y: 4
+        x: 474
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -2045,8 +2045,8 @@ TextureImporter:
       name: chicken_92
       rect:
         serializedVersion: 2
-        x: 546
-        y: 4
+        x: 541
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -2066,8 +2066,8 @@ TextureImporter:
       name: chicken_93
       rect:
         serializedVersion: 2
-        x: 613
-        y: 4
+        x: 608
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -2087,8 +2087,8 @@ TextureImporter:
       name: chicken_94
       rect:
         serializedVersion: 2
-        x: 680
-        y: 4
+        x: 675
+        y: 3
         width: 67
         height: 64
       alignment: 0
@@ -2108,8 +2108,8 @@ TextureImporter:
       name: chicken_95
       rect:
         serializedVersion: 2
-        x: 747
-        y: 4
+        x: 742
+        y: 3
         width: 67
         height: 64
       alignment: 0
