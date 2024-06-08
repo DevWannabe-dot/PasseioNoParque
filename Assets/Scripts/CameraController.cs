@@ -6,6 +6,12 @@ public class CameraController : MonoBehaviour
     public float smoothing; // suavizar o efeito da câmera
     public Vector2 minPosition;
     public Vector2 maxPosition;
+    public ColorBlindFilter filter;
+
+    void Start()
+    {
+        filter = GetComponent<ColorBlindFilter>();
+    }
 
     void LateUpdate()
     {
